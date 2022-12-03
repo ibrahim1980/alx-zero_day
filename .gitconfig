@@ -1,2 +1,4 @@
 [user]
 	email = ibrahimmwarimbo@gmail.com
+[push]
+	default = current
